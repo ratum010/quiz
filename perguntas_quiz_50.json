@@ -1,0 +1,1102 @@
+[
+  {
+    "numero": 1,
+    "pergunta": "Qual é a fórmula química da água?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CO2"
+      },
+      {
+        "letra": "B",
+        "texto": "H2O"
+      },
+      {
+        "letra": "C",
+        "texto": "O2"
+      },
+      {
+        "letra": "D",
+        "texto": "NaCl"
+      }
+    ]
+  },
+  {
+    "numero": 2,
+    "pergunta": "Qual planeta é conhecido como Planeta Vermelho?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vênus"
+      },
+      {
+        "letra": "B",
+        "texto": "Júpiter"
+      },
+      {
+        "letra": "C",
+        "texto": "Marte"
+      },
+      {
+        "letra": "D",
+        "texto": "Saturno"
+      }
+    ]
+  },
+  {
+    "numero": 3,
+    "pergunta": "Qual gás as plantas absorvem principalmente durante a fotossíntese?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oxigênio"
+      },
+      {
+        "letra": "B",
+        "texto": "Hélio"
+      },
+      {
+        "letra": "C",
+        "texto": "Nitrogênio"
+      },
+      {
+        "letra": "D",
+        "texto": "Dióxido de carbono"
+      }
+    ]
+  },
+  {
+    "numero": 4,
+    "pergunta": "Qual é a unidade de força no Sistema Internacional de Unidades?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Newton"
+      },
+      {
+        "letra": "B",
+        "texto": "Watt"
+      },
+      {
+        "letra": "C",
+        "texto": "Joule"
+      },
+      {
+        "letra": "D",
+        "texto": "Pascal"
+      }
+    ]
+  },
+  {
+    "numero": 5,
+    "pergunta": "Qual é o maior órgão do corpo humano?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coração"
+      },
+      {
+        "letra": "B",
+        "texto": "Fígado"
+      },
+      {
+        "letra": "C",
+        "texto": "Pele"
+      },
+      {
+        "letra": "D",
+        "texto": "Pulmão"
+      }
+    ]
+  },
+  {
+    "numero": 6,
+    "pergunta": "Quem foi o primeiro ser humano a pisar na Lua?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Yuri Gagarin"
+      },
+      {
+        "letra": "B",
+        "texto": "Neil Armstrong"
+      },
+      {
+        "letra": "C",
+        "texto": "Buzz Aldrin"
+      },
+      {
+        "letra": "D",
+        "texto": "John Glenn"
+      }
+    ]
+  },
+  {
+    "numero": 7,
+    "pergunta": "Em que ano foi proclamada a Independência do Brasil?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1500"
+      },
+      {
+        "letra": "B",
+        "texto": "1889"
+      },
+      {
+        "letra": "C",
+        "texto": "1822"
+      },
+      {
+        "letra": "D",
+        "texto": "1922"
+      }
+    ]
+  },
+  {
+    "numero": 8,
+    "pergunta": "Qual civilização antiga construiu as grandes pirâmides de Gizé?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Egípcia"
+      },
+      {
+        "letra": "B",
+        "texto": "Romana"
+      },
+      {
+        "letra": "C",
+        "texto": "Maia"
+      },
+      {
+        "letra": "D",
+        "texto": "Persa"
+      }
+    ]
+  },
+  {
+    "numero": 9,
+    "pergunta": "Em que ano ocorreu a queda do Muro de Berlim?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1961"
+      },
+      {
+        "letra": "B",
+        "texto": "1975"
+      },
+      {
+        "letra": "C",
+        "texto": "1999"
+      },
+      {
+        "letra": "D",
+        "texto": "1989"
+      }
+    ]
+  },
+  {
+    "numero": 10,
+    "pergunta": "Quem é tradicionalmente associado à invenção da prensa de tipos móveis na Europa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leonardo da Vinci"
+      },
+      {
+        "letra": "B",
+        "texto": "Johannes Gutenberg"
+      },
+      {
+        "letra": "C",
+        "texto": "Isaac Newton"
+      },
+      {
+        "letra": "D",
+        "texto": "Galileu Galilei"
+      }
+    ]
+  },
+  {
+    "numero": 11,
+    "pergunta": "Qual é a capital da Argentina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Santiago"
+      },
+      {
+        "letra": "B",
+        "texto": "Montevidéu"
+      },
+      {
+        "letra": "C",
+        "texto": "Buenos Aires"
+      },
+      {
+        "letra": "D",
+        "texto": "Lima"
+      }
+    ]
+  },
+  {
+    "numero": 12,
+    "pergunta": "Qual é o maior oceano da Terra?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oceano Pacífico"
+      },
+      {
+        "letra": "B",
+        "texto": "Oceano Atlântico"
+      },
+      {
+        "letra": "C",
+        "texto": "Oceano Índico"
+      },
+      {
+        "letra": "D",
+        "texto": "Oceano Ártico"
+      }
+    ]
+  },
+  {
+    "numero": 13,
+    "pergunta": "Em qual oceano deságua o Rio Amazonas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pacífico"
+      },
+      {
+        "letra": "B",
+        "texto": "Índico"
+      },
+      {
+        "letra": "C",
+        "texto": "Ártico"
+      },
+      {
+        "letra": "D",
+        "texto": "Atlântico"
+      }
+    ]
+  },
+  {
+    "numero": 14,
+    "pergunta": "Em qual continente está localizado o Deserto do Saara?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ásia"
+      },
+      {
+        "letra": "B",
+        "texto": "África"
+      },
+      {
+        "letra": "C",
+        "texto": "Oceania"
+      },
+      {
+        "letra": "D",
+        "texto": "Europa"
+      }
+    ]
+  },
+  {
+    "numero": 15,
+    "pergunta": "O Japão está localizado em qual continente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Europa"
+      },
+      {
+        "letra": "B",
+        "texto": "África"
+      },
+      {
+        "letra": "C",
+        "texto": "Ásia"
+      },
+      {
+        "letra": "D",
+        "texto": "América"
+      }
+    ]
+  },
+  {
+    "numero": 16,
+    "pergunta": "Quanto é 12 × 8?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "86"
+      },
+      {
+        "letra": "B",
+        "texto": "96"
+      },
+      {
+        "letra": "C",
+        "texto": "108"
+      },
+      {
+        "letra": "D",
+        "texto": "98"
+      }
+    ]
+  },
+  {
+    "numero": 17,
+    "pergunta": "Qual é o resultado de 9 ao quadrado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "18"
+      },
+      {
+        "letra": "B",
+        "texto": "72"
+      },
+      {
+        "letra": "C",
+        "texto": "81"
+      },
+      {
+        "letra": "D",
+        "texto": "99"
+      }
+    ]
+  },
+  {
+    "numero": 18,
+    "pergunta": "Quanto é 25% de 200?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "25"
+      },
+      {
+        "letra": "B",
+        "texto": "40"
+      },
+      {
+        "letra": "C",
+        "texto": "75"
+      },
+      {
+        "letra": "D",
+        "texto": "50"
+      }
+    ]
+  },
+  {
+    "numero": 19,
+    "pergunta": "Qual é a soma dos ângulos internos de um triângulo plano?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "180°"
+      },
+      {
+        "letra": "B",
+        "texto": "90°"
+      },
+      {
+        "letra": "C",
+        "texto": "270°"
+      },
+      {
+        "letra": "D",
+        "texto": "360°"
+      }
+    ]
+  },
+  {
+    "numero": 20,
+    "pergunta": "Qual número decimal representa a fração 3/4?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,25"
+      },
+      {
+        "letra": "B",
+        "texto": "0,5"
+      },
+      {
+        "letra": "C",
+        "texto": "0,75"
+      },
+      {
+        "letra": "D",
+        "texto": "1,25"
+      }
+    ]
+  },
+  {
+    "numero": 21,
+    "pergunta": "Qual palavra é sinônimo de “feliz”?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Triste"
+      },
+      {
+        "letra": "B",
+        "texto": "Alegre"
+      },
+      {
+        "letra": "C",
+        "texto": "Cansado"
+      },
+      {
+        "letra": "D",
+        "texto": "Distante"
+      }
+    ]
+  },
+  {
+    "numero": 22,
+    "pergunta": "Qual é o plural de “animal”?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Animales"
+      },
+      {
+        "letra": "B",
+        "texto": "Animalis"
+      },
+      {
+        "letra": "C",
+        "texto": "Animãos"
+      },
+      {
+        "letra": "D",
+        "texto": "Animais"
+      }
+    ]
+  },
+  {
+    "numero": 23,
+    "pergunta": "Quem escreveu o romance “Dom Casmurro”?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Machado de Assis"
+      },
+      {
+        "letra": "B",
+        "texto": "José de Alencar"
+      },
+      {
+        "letra": "C",
+        "texto": "Clarice Lispector"
+      },
+      {
+        "letra": "D",
+        "texto": "Monteiro Lobato"
+      }
+    ]
+  },
+  {
+    "numero": 24,
+    "pergunta": "Como se chama a palavra cuja sílaba tônica é a última?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paroxítona"
+      },
+      {
+        "letra": "B",
+        "texto": "Proparoxítona"
+      },
+      {
+        "letra": "C",
+        "texto": "Oxítona"
+      },
+      {
+        "letra": "D",
+        "texto": "Monossílaba átona"
+      }
+    ]
+  },
+  {
+    "numero": 25,
+    "pergunta": "Qual é a classe gramatical que geralmente atribui característica ou qualidade a um substantivo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Verbo"
+      },
+      {
+        "letra": "B",
+        "texto": "Adjetivo"
+      },
+      {
+        "letra": "C",
+        "texto": "Preposição"
+      },
+      {
+        "letra": "D",
+        "texto": "Conjunção"
+      }
+    ]
+  },
+  {
+    "numero": 26,
+    "pergunta": "O que significa a sigla CPU?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Unidade Central de Processamento"
+      },
+      {
+        "letra": "B",
+        "texto": "Conexão Pessoal Universal"
+      },
+      {
+        "letra": "C",
+        "texto": "Controle Principal de Usuários"
+      },
+      {
+        "letra": "D",
+        "texto": "Unidade de Programa Digital"
+      }
+    ]
+  },
+  {
+    "numero": 27,
+    "pergunta": "Para que é utilizada principalmente a linguagem HTML?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Editar vídeos profissionais"
+      },
+      {
+        "letra": "B",
+        "texto": "Gerenciar bancos de dados relacionais"
+      },
+      {
+        "letra": "C",
+        "texto": "Estruturar o conteúdo de páginas da web"
+      },
+      {
+        "letra": "D",
+        "texto": "Proteger redes contra vírus"
+      }
+    ]
+  },
+  {
+    "numero": 28,
+    "pergunta": "Quais são os dois dígitos usados no sistema binário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 e 2"
+      },
+      {
+        "letra": "B",
+        "texto": "0 e 1"
+      },
+      {
+        "letra": "C",
+        "texto": "2 e 3"
+      },
+      {
+        "letra": "D",
+        "texto": "0 e 9"
+      }
+    ]
+  },
+  {
+    "numero": 29,
+    "pergunta": "O que é “phishing” na segurança digital?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um tipo de monitor"
+      },
+      {
+        "letra": "B",
+        "texto": "Uma técnica de compactação de arquivos"
+      },
+      {
+        "letra": "C",
+        "texto": "Um protocolo de impressão"
+      },
+      {
+        "letra": "D",
+        "texto": "Uma tentativa fraudulenta de obter informações pessoais"
+      }
+    ]
+  },
+  {
+    "numero": 30,
+    "pergunta": "O que é uma URL?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um endereço que identifica um recurso na internet"
+      },
+      {
+        "letra": "B",
+        "texto": "Um componente físico do computador"
+      },
+      {
+        "letra": "C",
+        "texto": "Um tipo de memória RAM"
+      },
+      {
+        "letra": "D",
+        "texto": "Um programa exclusivo para cálculos"
+      }
+    ]
+  },
+  {
+    "numero": 31,
+    "pergunta": "Quantos jogadores de cada equipe começam em campo em uma partida oficial de futebol de campo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "9"
+      },
+      {
+        "letra": "B",
+        "texto": "10"
+      },
+      {
+        "letra": "C",
+        "texto": "11"
+      },
+      {
+        "letra": "D",
+        "texto": "12"
+      }
+    ]
+  },
+  {
+    "numero": 32,
+    "pergunta": "Quantos anéis aparecem no símbolo olímpico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4"
+      },
+      {
+        "letra": "B",
+        "texto": "5"
+      },
+      {
+        "letra": "C",
+        "texto": "6"
+      },
+      {
+        "letra": "D",
+        "texto": "7"
+      }
+    ]
+  },
+  {
+    "numero": 33,
+    "pergunta": "Em qual esporte é disputado o torneio de Wimbledon?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Golfe"
+      },
+      {
+        "letra": "B",
+        "texto": "Críquete"
+      },
+      {
+        "letra": "C",
+        "texto": "Badminton"
+      },
+      {
+        "letra": "D",
+        "texto": "Tênis"
+      }
+    ]
+  },
+  {
+    "numero": 34,
+    "pergunta": "Quantos pontos vale uma cesta de lance livre no basquete?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1"
+      },
+      {
+        "letra": "B",
+        "texto": "2"
+      },
+      {
+        "letra": "C",
+        "texto": "3"
+      },
+      {
+        "letra": "D",
+        "texto": "4"
+      }
+    ]
+  },
+  {
+    "numero": 35,
+    "pergunta": "Qual é a distância oficial de uma maratona?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10 km"
+      },
+      {
+        "letra": "B",
+        "texto": "21,097 km"
+      },
+      {
+        "letra": "C",
+        "texto": "42,195 km"
+      },
+      {
+        "letra": "D",
+        "texto": "50 km"
+      }
+    ]
+  },
+  {
+    "numero": 36,
+    "pergunta": "Quem pintou a obra “Mona Lisa”?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vincent van Gogh"
+      },
+      {
+        "letra": "B",
+        "texto": "Leonardo da Vinci"
+      },
+      {
+        "letra": "C",
+        "texto": "Pablo Picasso"
+      },
+      {
+        "letra": "D",
+        "texto": "Claude Monet"
+      }
+    ]
+  },
+  {
+    "numero": 37,
+    "pergunta": "Qual instrumento musical tradicionalmente possui 88 teclas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Violino"
+      },
+      {
+        "letra": "B",
+        "texto": "Flauta"
+      },
+      {
+        "letra": "C",
+        "texto": "Trompete"
+      },
+      {
+        "letra": "D",
+        "texto": "Piano"
+      }
+    ]
+  },
+  {
+    "numero": 38,
+    "pergunta": "O balé é uma forma de expressão artística baseada principalmente em quê?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dança"
+      },
+      {
+        "letra": "B",
+        "texto": "Escultura"
+      },
+      {
+        "letra": "C",
+        "texto": "Fotografia"
+      },
+      {
+        "letra": "D",
+        "texto": "Arquitetura"
+      }
+    ]
+  },
+  {
+    "numero": 39,
+    "pergunta": "Qual gênero musical e de dança é amplamente associado à cultura brasileira?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Flamenco"
+      },
+      {
+        "letra": "B",
+        "texto": "Tango"
+      },
+      {
+        "letra": "C",
+        "texto": "Samba"
+      },
+      {
+        "letra": "D",
+        "texto": "Ópera"
+      }
+    ]
+  },
+  {
+    "numero": 40,
+    "pergunta": "No cinema, qual é a principal função de um diretor?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vender ingressos"
+      },
+      {
+        "letra": "B",
+        "texto": "Coordenar a realização artística e narrativa do filme"
+      },
+      {
+        "letra": "C",
+        "texto": "Projetar os prédios das salas"
+      },
+      {
+        "letra": "D",
+        "texto": "Distribuir os prêmios ao público"
+      }
+    ]
+  },
+  {
+    "numero": 41,
+    "pergunta": "Qual característica distingue os mamíferos de muitos outros grupos de animais?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todos vivem na água"
+      },
+      {
+        "letra": "B",
+        "texto": "Todos botam ovos"
+      },
+      {
+        "letra": "C",
+        "texto": "Todos têm penas"
+      },
+      {
+        "letra": "D",
+        "texto": "As fêmeas possuem glândulas mamárias que produzem leite"
+      }
+    ]
+  },
+  {
+    "numero": 42,
+    "pergunta": "Como se chama a passagem da água do estado gasoso para o líquido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Condensação"
+      },
+      {
+        "letra": "B",
+        "texto": "Evaporação"
+      },
+      {
+        "letra": "C",
+        "texto": "Sublimação"
+      },
+      {
+        "letra": "D",
+        "texto": "Fusão"
+      }
+    ]
+  },
+  {
+    "numero": 43,
+    "pergunta": "Qual destas fontes de energia é renovável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carvão mineral"
+      },
+      {
+        "letra": "B",
+        "texto": "Petróleo"
+      },
+      {
+        "letra": "C",
+        "texto": "Energia solar"
+      },
+      {
+        "letra": "D",
+        "texto": "Gás natural"
+      }
+    ]
+  },
+  {
+    "numero": 44,
+    "pergunta": "Qual é um papel importante das abelhas nos ecossistemas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Produzir combustíveis fósseis"
+      },
+      {
+        "letra": "B",
+        "texto": "Polinizar flores"
+      },
+      {
+        "letra": "C",
+        "texto": "Impedir toda erosão do solo"
+      },
+      {
+        "letra": "D",
+        "texto": "Transformar água salgada em doce"
+      }
+    ]
+  },
+  {
+    "numero": 45,
+    "pergunta": "O que significa desmatamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Plantio de árvores em áreas urbanas"
+      },
+      {
+        "letra": "B",
+        "texto": "Proteção de nascentes"
+      },
+      {
+        "letra": "C",
+        "texto": "Recuperação de um rio"
+      },
+      {
+        "letra": "D",
+        "texto": "Remoção da cobertura florestal"
+      }
+    ]
+  },
+  {
+    "numero": 46,
+    "pergunta": "Quantas cores são tradicionalmente identificadas no arco-íris?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "7"
+      },
+      {
+        "letra": "B",
+        "texto": "5"
+      },
+      {
+        "letra": "C",
+        "texto": "9"
+      },
+      {
+        "letra": "D",
+        "texto": "12"
+      }
+    ]
+  },
+  {
+    "numero": 47,
+    "pergunta": "Quantos dias tem um ano bissexto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "364"
+      },
+      {
+        "letra": "B",
+        "texto": "365"
+      },
+      {
+        "letra": "C",
+        "texto": "366"
+      },
+      {
+        "letra": "D",
+        "texto": "367"
+      }
+    ]
+  },
+  {
+    "numero": 48,
+    "pergunta": "Qual instrumento é usado para medir a temperatura?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Barômetro"
+      },
+      {
+        "letra": "B",
+        "texto": "Termômetro"
+      },
+      {
+        "letra": "C",
+        "texto": "Bússola"
+      },
+      {
+        "letra": "D",
+        "texto": "Anemômetro"
+      }
+    ]
+  },
+  {
+    "numero": 49,
+    "pergunta": "Qual é a moeda oficial do Brasil?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Peso"
+      },
+      {
+        "letra": "B",
+        "texto": "Dólar"
+      },
+      {
+        "letra": "C",
+        "texto": "Euro"
+      },
+      {
+        "letra": "D",
+        "texto": "Real"
+      }
+    ]
+  },
+  {
+    "numero": 50,
+    "pergunta": "Qual é o idioma oficial do Brasil?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Português"
+      },
+      {
+        "letra": "B",
+        "texto": "Espanhol"
+      },
+      {
+        "letra": "C",
+        "texto": "Inglês"
+      },
+      {
+        "letra": "D",
+        "texto": "Francês"
+      }
+    ]
+  }
+]
