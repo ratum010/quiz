@@ -15,7 +15,7 @@ jogo = False
 
 escolha_inicial = menu()
 
-nome = input("Digite seu nome de usuário: ")
+nome = input("Digite seu nome de usuário: ").casefold()
 
 if os.path.exists("ranking.json"):
     with open("ranking.json", "r") as ranking:
